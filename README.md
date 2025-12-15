@@ -1,2 +1,2 @@
-# Beginner_bot
+# Beginner bot
 A repo for my beginner trading bots
